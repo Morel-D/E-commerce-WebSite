@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "value": 0,
+      "itemName": "Balerine",
+      "itemBody": "Balerine  with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+      "quantity": 5,
+      "price": 12000,
+      "image": "./image/balerine.jpeg",
+      "amount": 3,
+      "id": 1
+    },
+    {
+      "value": 0,
+      "itemName": "Necklace",
+      "itemBody": "Necklace  with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+      "quantity": 7,
+      "price": 7500,
+      "image": "./image/cloth3.jpeg",
+      "amount": 1,
+      "id": 2
+    },
+    {
+      "value": 0,
+      "itemName": "Air Jordan",
+      "itemBody": "Air Jordan  with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+      "quantity": 3,
+      "price": 25000,
+      "image": "./image/air.jpeg",
+      "amount": 0,
+      "id": 3
+    },
+    {
+      "value": 0,
+      "itemName": "Handbag",
+      "itemBody": "Handbag with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+      "quantity": 18,
+      "price": 15000,
+      "image": "./image/sBag2.jpeg",
+      "amount": 0,
+      "id": 4
+    },
+    {
+      "value": 0,
+      "itemName": "Trouser",
+      "itemBody": "Trouser with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+      "quantity": 9,
+      "price": 7000,
+      "image": "./image/luxury2.jpeg",
+      "amount": 0,
+      "id": 5
+    },
+    {
+      "value": 0,
+      "itemName": "Gold chain",
+      "itemBody": "Trouser with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+      "quantity": 2,
+      "price": 5000,
+      "image": "./image/coloars2.jpeg",
+      "amount": 0,
+      "id": 6
+    }
+  ]
+}
